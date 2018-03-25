@@ -16,7 +16,7 @@ Week 1 to 4 are for the basic knowledge of programming. 5 to 6 focus more on spe
 	* [Interaction Design Wiki ･ Programming](http://wiki.iad.zhdk.ch/PB)
 	* [Processing Examples](https://processing.org/examples/)
 
-## Schedule
+## Schedule
 ### Week 1 - Introduction to programming
 * Topics
 	* Processing IDE (*multiple files*, *contribution manager*, *debugger*)
